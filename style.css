@@ -1,0 +1,30 @@
+img{
+    width: 30%;
+    margin-right: 10%;
+}
+
+.card{
+    margin-left: 5%;
+    
+}
+.name{
+    color:rgb(20, 109, 35)
+}
+.m{
+    color:red
+}
+.a{
+    color:blue
+}
+.g{
+    color:blueviolet
+}
+.i{
+    color: yellowgreen;
+}
+.c{
+    color: teal;
+}
+.welcome{
+    color: rgb(112, 11, 112);
+}
